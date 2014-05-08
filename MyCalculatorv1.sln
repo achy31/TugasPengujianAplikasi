@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculatorv1", "MyCalculatorv1\MyCalculatorv1.csproj", "{9C8DF237-3BDA-4E41-82EC-E73B868EB15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{CB6D1935-B7E1-4424-9EEB-7BCEBD475DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject2", "CodedUITestProject2\CodedUITestProject2.csproj", "{001440E6-0D7F-4E09-9246-087350BBE516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8DF237-3BDA-4E41-82EC-E73B868EB15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8DF237-3BDA-4E41-82EC-E73B868EB15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8DF237-3BDA-4E41-82EC-E73B868EB15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8DF237-3BDA-4E41-82EC-E73B868EB15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6D1935-B7E1-4424-9EEB-7BCEBD475DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6D1935-B7E1-4424-9EEB-7BCEBD475DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6D1935-B7E1-4424-9EEB-7BCEBD475DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6D1935-B7E1-4424-9EEB-7BCEBD475DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001440E6-0D7F-4E09-9246-087350BBE516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001440E6-0D7F-4E09-9246-087350BBE516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001440E6-0D7F-4E09-9246-087350BBE516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001440E6-0D7F-4E09-9246-087350BBE516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
